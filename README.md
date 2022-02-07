@@ -8,7 +8,7 @@
 - I love Backend web devolpment and use PHP every day!
 
 #### 🛠 Tech Stack
-💻   PHP | Java | Docker🐳 | MySQL
+💻   PHP | Java | Docker🐳 | MySQL | Hexagonal Architecture | SpringBoot
 
 🌐   HTML | CSS | JavaScript | Bootstrap | 
 
