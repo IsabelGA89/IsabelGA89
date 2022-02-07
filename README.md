@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @IsabelGA89
+- 👋 Hi, I’m Isa
 - 👀 I’m interested in codign, learning new things and read books
-- 🌱 I’m currently learning PHP, JS
+- 🌱 I’m currently learning React
+- I love Backend web devolpment and use PHP every day!
 - 📫 How to reach me ... you can contact with me in LinkedIn https://www.linkedin.com/in/isabelgonzalezanzano/
 
 <!---
